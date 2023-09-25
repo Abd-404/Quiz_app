@@ -4,13 +4,13 @@ A quiz app that test your knowlege on the flutter framwork with multiple choice 
 
 ## Screenshots
 
-- Welcome Screen
+#### Welcome Screen
   ![Welcome Screen](image.png)
 
-- Questions Screen
+#### Questions Screen
   ![Questions Screen](image-1.png)
 
-- Results Screen
+#### Results Screen
   ![Results Screen](image-2.png)
 
 ## Features
